@@ -1,6 +1,6 @@
 # main text of home
 name: Sergi Delgado Segura
-bio: I'm third year PhD student at the Autonomous University of Barcelona (UAB) advised by <a class='bio' href='http://www.deic.uab.cat/~jherrera/'>Jordi Herrera-Joancomartí</a>. Currently I'm on a research stay at UIUC advised by <a class='bio' href='http://soc1024.ece.illinois.edu'>Andrew Miller</a>. My research interests lies on nerworks, privacy and cryptocurrencies, specially focussed on Bitcoin.
+bio: I'm third year PhD student at the Autonomous University of Barcelona (UAB) advised by <a class='black' href='http://www.deic.uab.cat/~jherrera/'>Jordi Herrera-Joancomartí</a>. Currently I'm on a research stay at UIUC advised by <a class='black' href='http://soc1024.ece.illinois.edu'>Andrew Miller</a>. My research interests lies on nerworks, privacy and cryptocurrencies, specially focussed on Bitcoin.
 
 # twitter summary info
 description: Sergi's personal webpage.
@@ -22,6 +22,9 @@ url: http://srgi.me
 
 permalink: /:title/
 title: me
+
+#404 error
+permalink: 404.html
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
