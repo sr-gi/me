@@ -32,10 +32,12 @@
         {% endif %}
         
         {% if site.resume == true %}
-            <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Resume</a>
-                <!--<a class="link" href="{{ site.url }}/assets/sdelgado-cv.pdf">Resume</a> -->
+        	{% if page.title != "Resume" %}
+            	<li class="item">
+                	<a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Resume</a>
+					<!--<a class="link" href="{{ site.url }}/assets/sdelgado-cv.pdf">Resume</a> -->
             </li>
+            {% endif %}
         {% endif %}
         
         
