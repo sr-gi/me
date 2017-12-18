@@ -9,7 +9,7 @@ layout: page
 
 Bitcoin tools is a Python library created for teaching and researching purposes. It's main objective is twofold. First it 
 aims to ease the understanding of Bitcoin transaction creation, by using well-documented and easy to understand
-python code. Second, it aims to provide a tool able to create custom `transactions` / `scripts`. Either `scriptSig` and `scriptPubKey` can be built from human redable strings created using `Script` sintax. 
+python code. Second, it aims to provide a tool able to create custom `transactions` / `scripts`. Either `scriptSig` and `scriptPubKey` can be built from human readable strings created using `Script` syntax. 
 
 ## STATUS [![](../assets/images/github-logo.png)](https://github.com/sr-gi/bitcoin_tools/tree/dev/bitcoin_tools/analysis/status)
 
