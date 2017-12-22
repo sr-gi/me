@@ -20,7 +20,7 @@ url: http://srgi.me
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
-title: me
+title: srgi
 
 #404 error
 permalink: 404.html
