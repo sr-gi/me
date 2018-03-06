@@ -5,7 +5,7 @@ layout: page
 
 # Selected publications
 
-Delgado-Segura, S., Pérez-Solà, C., Navarro-Arribas, G, and Herrera-Joancomartí, J. [**Analysis of the Bitcoin UTXO set**](https://eprint.iacr.org/2017/1095.pdf), *IACR Cryptology ePrint Archive*, 2017, 1095. *Accepted in [The 5th Workshop on Bitcoin and Blockchain Research](https://fc18.ifca.ai/bitcoin/schedule.html)
+Delgado-Segura, S., Pérez-Solà, C., Navarro-Arribas, G, and Herrera-Joancomartí, J. [**Analysis of the Bitcoin UTXO set**](http://fc18.ifca.ai/bitcoin/papers/bitcoin18-final6.pdf), *The 5th Workshop on Bitcoin and Blockchain Research (BITCOIN'18)*, 2018.
 
 Delgado-Segura, S., Pérez-Solà, C., Navarro-Arribas, G, and Herrera-Joancomartí, J. [**A fair protocol for data trading based on Bitcoin transactions**](http://dx.doi.org/10.1016/j.future.2017.08.021), *Future Generation Computer Systems*, 2017, ISSN 0167-739X.
 Pérez-Solá, C., Delgado-Segura, S., Navarro-Arribas, G. and Herrera-Joancomartí, J. [**Double-spending Prevention for Bitcoin zero-confirmation transactions**](https://eprint.iacr.org/2017/394.pdf), *IACR Cryptology ePrint Archive*, 2017, 394. 
