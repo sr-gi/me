@@ -2,7 +2,7 @@
 name: Sergi Delgado Segura
 bio: I'm a PhD student in my final year at the Autonomous University of Barcelona (UAB) advised by <a class='link' href='http://www.deic.uab.cat/~jherrera/'>Jordi Herrera-Joancomartí</a> and <a class='link' href='http://www.deic.uab.cat/~guille/'>Guillermo Navarro-Arribas</a>. Currently I'm back in Barcelona after a four-month research stay at UIUC advised by <a class='link' href='http://soc1024.ece.illinois.edu'>Andrew Miller</a>. My research interests lies on nerworks, privacy and cryptocurrencies, specially focused on Bitcoin.
 # twitter summary info
-description: Sergi's personal webpage.
+description: Sergi Delgado Segura's personal webpage.
 
 # if it's an external image, update below for true
 # better with square images
@@ -57,19 +57,8 @@ email: sergi.delgado@uab.cat
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 
-# authors:
-#     johndoe:
-#         name: John Doe
-#         bio: A Man who travels the world eating noodles
-#         external-image: false
-#         picture: assets/images/profile.jpg
-#         twitter: johndoe
-#     jamesfoster:
-#         name: James Foster
-#         bio: A Man who develops software with coffee
-#         external-image: false
-#         picture: assets/images/james.jpg
-#         twitter: jamesfoster
+author:
+  twitter: sr_gi
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
