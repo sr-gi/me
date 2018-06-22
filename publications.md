@@ -10,8 +10,8 @@ Delgado-Segura, S., Pérez-Solà, C., Navarro-Arribas, G., and Herrera-Joancomar
 Delgado-Segura, S., Pérez-Solà, C., Herrera-Joancomartí, J., Navarro-Arribas, G., and Borrell, J. [**Cryptocurrency networks: a new P2P paradigm**](https://doi.org/10.1155/2018/2159082), *Mobile Information Systems*, 2018.
 
 Delgado-Segura, S., Pérez-Solà, C., Navarro-Arribas, G., and Herrera-Joancomartí, J. [**A fair protocol for data trading based on Bitcoin transactions**](http://dx.doi.org/10.1016/j.future.2017.08.021), *Future Generation Computer Systems*, 2017, ISSN 0167-739X.
-Delgado-Segura, S., Tanas, C. and Herrera-Joancomartí, J., (2016). [**Reputation and Reward: Two Sides of the Same Bitcoin**](http://dx.doi.org/10.3390/s16060776), *Sensors*, 2016, 16(6), p. 776.
-Tanas, C., Delgado-Segura, S. and Herrera-Joancomartí, J. [**An Integrated Reward and Reputation Mechanism for MCS Preserving Users Privacy**](https://link.springer.com/chapter/10.1007/978-3-319-29883-2_6/fulltext.html), In *International Workshop on Data Privacy Management*, 2015, pp. 83-99.
+Delgado-Segura, S., Tanas, C. and Herrera-Joancomartí, J. (2016). [**Reputation and Reward: Two Sides of the Same Bitcoin**](http://dx.doi.org/10.3390/s16060776), *Sensors*, 2016, 16(6), p. 776.
+Tanas, C., Delgado-Segura, S. and Herrera-Joancomartí, J. [**An Integrated Reward and Reputation Mechanism for MCS Preserving Users Privacy**](https://link.springer.com/chapter/10.1007/978-3-319-29883-2_6/fulltext.html), *International Workshop on Data Privacy Management*, 2015, pp. 83-99.
 
 ## Preprints 
 
