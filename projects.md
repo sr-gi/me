@@ -20,3 +20,7 @@ python code. Second, it aims to provide a tool able to create custom `transactio
 STATUS is coded in Python 2 and works for both the existing versions of Bitcoin Core's `utxo set`, that is, the first defined format (versions 0.8 - 0.14) and the recently defined one (version 0.15). 
 
 STATUS reads from a LevelDB folder (usually located under `.bitcoin/chainstate`) and parses all the `utxo` entries into a `json` file. From the parsed file, STATUS allows you to perform two type of analysis, a `utxo` based one, and a `transaction` based one, by decoding all the parsed information from the chainstate. 
+
+## Bitcoin network health dashboard [![](../assets/images/grafana-logo.png)](http://satoshi.uab.cat/)
+
+The site provides graphs about Bitcoin network health for `mainnet` and `testnet`, such as transaction and block propagation times. Metrics are computed over `inventory messages` received by our custom node, and provide `50th percentile` and `85th percentile` propagation times. Our node is an instance of A. Miller et al. `coinscope`[[paper](http://www.cs.umd.edu/projects/coinscope/coinscope.pdf)][[code](https://github.com/jameslitton/coinscope)] and can be identified by the version string `UAB-Coinscope:0.2`.
