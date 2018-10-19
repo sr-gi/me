@@ -1,6 +1,6 @@
 # main text of home
 name: Sergi Delgado Segura
-bio: I'm a PhD student in my final year at the Autonomous University of Barcelona (UAB) advised by <a class='link' href='http://www.deic.uab.cat/~jherrera/'>Jordi Herrera-Joancomartí</a> and <a class='link' href='http://www.deic.uab.cat/~guille/'>Guillermo Navarro-Arribas</a>. Currently I'm back in Barcelona after a four-month research stay at UIUC advised by <a class='link' href='http://soc1024.ece.illinois.edu'>Andrew Miller</a>. My research interests lies on networks, privacy and cryptocurrencies, specially focused on Bitcoin.
+bio: I'm a postdoc at UCL working with <a class='link' href='https://smeiklej.com/'> Sarah Meiklejohn </a> and <a class='link' href='https://nms.kcl.ac.uk/patrick.mccorry/'> Patrick McCorry</a>. I got my PhD in CS from Autonomous University of Barcelona (UAB) under the supervision of <a class='link' href='http://www.deic.uab.cat/~jherrera/'>Jordi Herrera-Joancomartí</a> and <a class='link' href='http://www.deic.uab.cat/~guille/'>Guillermo Navarro-Arribas</a>. I’ve also stayed a few months at UIUC working with <a class='link' href='http://soc1024.ece.illinois.edu'>Andrew Miller</a> an his team. My research interest lies on networks, privacy and cryptocurrencies, specially focused on Bitcoin.
 # twitter summary info
 description: Sergi Delgado Segura's personal webpage.
 
@@ -43,7 +43,7 @@ twitter: sr_gi
 linkedin: sr-gi
 github: sr-gi
 bitcoin-stackexcahnge: 30668/sr-gi
-email: sergi.delgado@uab.cat
+email: s.delgado@ucl.ac.uk
 # stackoverflow: mystackoverflow
 # google: mygoogle
 # instagram: myinstagram
