@@ -5,6 +5,8 @@ layout: page
 
 # Selected publications
 
+Pérez-Solá, C., Delgado-Segura, S., Navarro-Arribas, G. and Herrera-Joancomartí, J. [**Double-spending Prevention for Bitcoin zero-confirmation transactions**](https://doi.org/10.1007/s10207-018-0422-4), *International Journal of Information Security*, 2018. 
+
 Delgado-Segura, S., Pérez-Solà, C., Herrera-Joancomartí, J., and Navarro-Arribas, G. [**Bitcoin Private Key Locked Transactions**](https://doi.org/10.1016/j.ipl.2018.08.004), *Information Processing Letters*, 2018.
 
 Delgado-Segura, S., Pérez-Solà, C., Navarro-Arribas, G., and Herrera-Joancomartí, J. [**Analysis of the Bitcoin UTXO set**](http://fc18.ifca.ai/bitcoin/papers/bitcoin18-final6.pdf), *The 5th Workshop on Bitcoin and Blockchain Research (BITCOIN'18)*, 2018.
@@ -18,5 +20,3 @@ Delgado-Segura, S., Pérez-Solà, C., Navarro-Arribas, G., and Herrera-Joancomar
 ## Preprints 
 
 Pérez-Solà, C., Delgado-Segura, S., Navarro-Arribas, G., and Herrera-Joancomartí, J. [**Another coin bites the dust: An analysis of dust in UTXO based cryptocurrencies**](https://eprint.iacr.org/2018/513.pdf), *IACR Cryptology ePrint Archive*, 2018, 513. 
-
-Pérez-Solá, C., Delgado-Segura, S., Navarro-Arribas, G. and Herrera-Joancomartí, J. [**Double-spending Prevention for Bitcoin zero-confirmation transactions**](https://eprint.iacr.org/2017/394.pdf), *IACR Cryptology ePrint Archive*, 2017, 394. 
