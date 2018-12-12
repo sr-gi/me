@@ -21,8 +21,6 @@ STATUS is coded in Python 2 and works for both the existing versions of Bitcoin 
 
 STATUS reads from a LevelDB folder (usually located under `.bitcoin/chainstate`) and parses all the `utxo` entries into a `json` file. From the parsed file, STATUS allows you to perform two type of analysis, a `utxo` based one, and a `transaction` based one, by decoding all the parsed information from the chainstate. 
 
-<!---
 ## Bitcoin network health dashboard [![](../assets/images/grafana-logo.png)](http://satoshi.uab.cat/)
 
-The site provides graphs about Bitcoin network health for `mainnet` and `testnet`, such as transaction and block propagation times. Metrics are computed over `inventory messages` received by our custom node, and provide `50th percentile` and `85th percentile` propagation times. Our node is an instance of A. Miller et al. `coinscope` [[paper](http://www.cs.umd.edu/projects/coinscope/coinscope.pdf)][[code](https://github.com/jameslitton/coinscope)] and can be identified by the version string `UAB-Coinscope:0.2`.
---->
+The site provides graphs about Bitcoin network health for `mainnet` and `testnet`, such as transaction and block propagation times. Metrics are computed over `inventory messages` received by our custom node, and provide `50th percentile` and `85th percentile` propagation times. Data is obtained using `hyperion`[[code](https://github.com/sr-gi/hyperion)] building on top of a coinscope instance (A. Miller et al. [[paper](http://www.cs.umd.edu/projects/coinscope/coinscope.pdf)][[code](https://github.com/jameslitton/coinscope)]). Our node can be identified by the version string `UAB-Coinscope:0.2`.
