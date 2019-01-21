@@ -5,7 +5,7 @@ layout: page
 
 # Selected publications
 
-Pérez-Solà, C., **Delgado-Segura, S.**, Navarro-Arribas, G., and Herrera-Joancomartí, J. [**Another coin bites the dust: An analysis of dust in UTXO based cryptocurrencies**](https://royalsocietypublishing.org/doi/10.1098/rsos.180817), *Royal Society Open Science*, 2018.
+Pérez-Solà, C., **Delgado-Segura, S.**, Navarro-Arribas, G., and Herrera-Joancomartí, J. [**Another coin bites the dust: An analysis of dust in UTXO-based cryptocurrencies**](https://royalsocietypublishing.org/doi/10.1098/rsos.180817), *Royal Society Open Science*, 2018.
 
 Pérez-Solá, C., **Delgado-Segura, S.**, Navarro-Arribas, G., and Herrera-Joancomartí, J. [**Double-spending Prevention for Bitcoin zero-confirmation transactions**](https://doi.org/10.1007/s10207-018-0422-4), *International Journal of Information Security*, 2018. 
 
