@@ -5,6 +5,10 @@ layout: page
 
 # Projects
 
+## PISA [![](../assets/images/pisa-logo.png)](https://pisa.watch)
+
+Our focus is building an accountable watching service, PISA, to support off-chain protocols in Bitcoin and Ethereum. Off-chain protocols assume users are always online. We will alleviate this assumption by watching off-chain protocols on behalf of users.
+
 ## Bitcoin tools [![](../assets/images/github-logo.png)](https://github.com/sr-gi/bitcoin_tools/)
 
 Bitcoin tools is a Python library created for teaching and researching purposes. It's main objective is twofold. First it 
