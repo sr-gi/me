@@ -5,6 +5,8 @@ layout: page
 
 # Selected publications
 
+**Delgado-Segura, S.**, Bakshi, S., Pérez-Solà, C., Litton, J., Pachulski, A., Miller, A., and Bhattacharjee, B. [**TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions**](https://arxiv.org/pdf/1812.00942.pdf), *Financial Cryptography and Data Security,* 2019.
+
 Pérez-Solà, C., **Delgado-Segura, S.**, Navarro-Arribas, G., and Herrera-Joancomartí, J. [**Another coin bites the dust: An analysis of dust in UTXO-based cryptocurrencies**](https://royalsocietypublishing.org/doi/10.1098/rsos.180817), *Royal Society Open Science*, 2018.
 
 Pérez-Solá, C., **Delgado-Segura, S.**, Navarro-Arribas, G., and Herrera-Joancomartí, J. [**Double-spending Prevention for Bitcoin zero-confirmation transactions**](https://doi.org/10.1007/s10207-018-0422-4), *International Journal of Information Security*, 2018. 
@@ -19,6 +21,4 @@ Pérez-Solá, C., **Delgado-Segura, S.**, Navarro-Arribas, G., and Herrera-Joanc
 **Delgado-Segura, S.**, Tanas, C., and Herrera-Joancomartí, J. (2016). [**Reputation and Reward: Two Sides of the Same Bitcoin**](http://dx.doi.org/10.3390/s16060776), *Sensors*, 2016, 16(6), p. 776.
 Tanas, C., **Delgado-Segura, S.**, and Herrera-Joancomartí, J. [**An Integrated Reward and Reputation Mechanism for MCS Preserving Users Privacy**](https://link.springer.com/chapter/10.1007/978-3-319-29883-2_6/fulltext.html), *International Workshop on Data Privacy Management*, 2015, pp. 83-99.
 
-## Preprints 
-
-**Delgado-Segura, S.**, Bakshi, S., Pérez-Solà, C., Litton, J., Pachulski, A., Miller, A., and Bhattacharjee, B. [**TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions**](https://arxiv.org/pdf/1812.00942.pdf), *Financial Cryptography and Data Security 2019 (to appear)*
+<!--## Preprints *-->
