@@ -5,6 +5,15 @@ layout: page
 
 # Projects
 
+## The Eye of Satoshi [![](../assets/images/python-logo.png)](https://github.com/talaia-labs/python-teos/) [![](../assets/images/rust-logo.png)](https://github.com/talaia-labs/rust-teos/)
+The Eye of Satoshi is a Lightning watchtower compliant with BOLT13. There are two implementatios of `teos`, the original (discontinued) python codebase, and the new rust codebase building on top of the [Lightning Dev Kit](https://lightningdevkit.org/).
+
+## Talaia Labs [![](../assets/images/talaia-logo.png)](https://talaia.watch/)
+Talaia Labs mission is to work on the security and privacy of the Lightning Network to ensure it can become a global, censorship-resistant and peer-to-peer payment network.
+
+Our current focus is providing an open-source and standardised implementation of Watchtowers which is a fundamental building block that secures the network. This effort is independent of any lightning wallet provider and its main purpose is to allow users to run and hook to standalone towers.
+
+
 ## PISA [![](../assets/images/pisa-logo.png)](https://pisa.watch)
 
 Our focus is building an accountable watching service, PISA, to support off-chain protocols in Bitcoin and Ethereum. Off-chain protocols assume users are always online. We will alleviate this assumption by watching off-chain protocols on behalf of users.
