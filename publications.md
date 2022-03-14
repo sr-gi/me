@@ -5,6 +5,8 @@ layout: page
 
 # Selected publications
 
+Kappos, G., Yousaf, H., Piotrowska, A., Kanjalkar, S., **Delgado-Segura, S.**, Miller, A., and Meiklejohn, S. [**An Empirical Analysis of Privacy in the Lightning Network**](https://arxiv.org/pdf/2003.12470.pdf), *Financial Cryptography and Data Security,* 2021.
+
 **Delgado-Segura, S.**, Bakshi, S., Pérez-Solà, C., Litton, J., Pachulski, A., Miller, A., and Bhattacharjee, B. [**TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions**](https://arxiv.org/pdf/1812.00942.pdf), *Financial Cryptography and Data Security,* 2019.
 
 Pérez-Solà, C., **Delgado-Segura, S.**, Navarro-Arribas, G., and Herrera-Joancomartí, J. [**Another coin bites the dust: An analysis of dust in UTXO-based cryptocurrencies**](https://royalsocietypublishing.org/doi/10.1098/rsos.180817), *Royal Society Open Science*, 2018.
