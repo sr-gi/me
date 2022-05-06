@@ -6,12 +6,12 @@ layout: page
 # Projects
 
 ## The Eye of Satoshi [![](../assets/images/python-logo.png)](https://github.com/talaia-labs/python-teos/) [![](../assets/images/rust-logo.png)](https://github.com/talaia-labs/rust-teos/)
-The Eye of Satoshi is a Lightning watchtower compliant with BOLT13. There are two implementatios of `teos`, the original (discontinued) python codebase, and the new rust codebase building on top of the [Lightning Dev Kit](https://lightningdevkit.org/).
+The Eye of Satoshi is a Lightning watchtower compliant with BOLT13. There are two implementations of `teos`, the original (discontinued) python codebase, and the new rust codebase building on top of the [Lightning Dev Kit](https://lightningdevkit.org/).
 
 ## Talaia Labs [![](../assets/images/talaia-logo.png)](https://talaia.watch/)
 Talaia Labs mission is to work on the security and privacy of the Lightning Network to ensure it can become a global, censorship-resistant and peer-to-peer payment network.
 
-Our current focus is providing an open-source and standardised implementation of Watchtowers which is a fundamental building block that secures the network. This effort is independent of any lightning wallet provider and its main purpose is to allow users to run and hook to standalone towers.
+Our current focus is providing an open-source and standardised implementation of watchtowers which is a fundamental building block that secures the network. This effort is independent of any lightning wallet provider and its main purpose is to allow users to run and hook to standalone towers.
 
 
 ## PISA [![](../assets/images/pisa-logo.png)](https://pisa.watch)
@@ -20,7 +20,7 @@ Our focus is building an accountable watching service, PISA, to support off-chai
 
 ## Bitcoin tools [![](../assets/images/github-logo.png)](https://github.com/sr-gi/bitcoin_tools/)
 
-Bitcoin tools is a Python library created for teaching and researching purposes. It's main objective is twofold. First it 
+Bitcoin tools is a Python library created for teaching and researching purposes. Its main objective is twofold. First it 
 aims to ease the understanding of Bitcoin transaction creation, by using well-documented and easy to understand
 python code. Second, it aims to provide a tool able to create custom `transactions` / `scripts`. Either `scriptSig` and `scriptPubKey` can be built from human readable strings created using `Script` syntax. 
 
