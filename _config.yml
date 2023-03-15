@@ -38,13 +38,14 @@ analytics-google: 'UA-119745630-1'
   #categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
+
 twitter: sr_gi
-linkedin: sr-gi
 github: sr-gi
 bitcoin-stackexchange: 30668/sr-gi
 email: mail@srgi.me
 tips: sergi
+# facebook: myfacebook
+# linkedin: sr-gi
 # stackoverflow: mystackoverflow
 # google: mygoogle
 # instagram: myinstagram
