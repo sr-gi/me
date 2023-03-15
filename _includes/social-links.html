@@ -17,8 +17,8 @@
         </a>
     {% endif %}
 
-    {% if site.bitcoin-beach %}
-        <a class="link" data-title="https://ln.bitcoinbeach.com/{{ site.tips }}" href="https://ln.bitcoinbeach.com/{{ site.bitcoin-beach }}" target="_blank">
+    {% if site.tips %}
+        <a class="link" data-title="{{ site.tips }}@getalby.com" href="lightning:{{ site.tips }}@getalby.com" target="_blank">
             <svg class="icon icon-tips"><use xlink:href="#icon-tips"></use></svg>
         </a>
     {% endif %}
